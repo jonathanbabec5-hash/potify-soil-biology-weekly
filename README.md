@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## A Friday note worth revisiting next Friday
+
+The best soil question is often small enough to come back to. A keeper can record how a bed looked after watering, then discover a week later that their first explanation was too simple. Good field writing leaves room for that second observation.
+
+The [issue worksheet](examples/issue.json) separates the question, dated observation and source. The [renderer](src/render.py) turns that structure into a readable brief. This is the editorial kit; a filled-in template is not evidence of a published issue or a measured change in the soil.
+
+Take a fictional field note and underline the part another person could actually see. Put the interpretation on a separate line and name the next observation that could change it. A useful edit fixes one sentence and explains why.
+
 **Editorial research kit.** Translate one observable living-soil question into a sourced, readable Friday brief.
 
 ### Setup and usage
