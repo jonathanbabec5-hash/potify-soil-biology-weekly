@@ -1,5 +1,13 @@
 # Soil Biology Weekly
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A grower | [Read the issue worksheet](examples/issue.json) | Separate an observation from an interpretation. |
+| An editor | [Inspect the renderer](src/render.py) | See how a sourced Friday brief is assembled. |
+| A contributor | [Explore the project tree](docs/DIRECTORY.md) | Suggest one clearer sentence using fictional field notes. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A Friday note worth revisiting next Friday
